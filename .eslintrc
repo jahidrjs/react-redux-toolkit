@@ -34,7 +34,7 @@
       "prettier/prettier": [
         "error",
         {
-          "trailingComma": "es06",
+          "trailingComma": "es05",
           "singleQuote": true,
           "printWidth": 100,
           "tabWidth": 4,
